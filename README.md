@@ -1,5 +1,4 @@
-# /home/tlhunter/.vim/vimrc
-
+#forked from [https://github.com/tlhunter/vimrc](https://github.com/tlhunter/vimrc)
 ![Screenshot](./screenshot.png "Screenshot of this .vimrc in action")
 
 This Vim configuration is meant to make Vim feel more like an IDE than a simple console-based text editor.
@@ -11,7 +10,7 @@ Run these commands to get this Vim configuration working on your OS X or Linux m
 
 ```bash
 cd ~
-git clone git://github.com/tlhunter/vimrc.git .vim
+git clone git://github.com/LeiZeng/vimrc.git .vim
 ln -s ~/.vim/vimrc ~/.vimrc
 ```
 
