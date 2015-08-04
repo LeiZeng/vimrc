@@ -28,8 +28,8 @@ set splitright
 
 
 "------  Generic Behavior  ------
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set hidden
 filetype indent on
 filetype plugin on
@@ -299,7 +299,6 @@ if has("gui_running")
 else
 	set t_Co=256
 	colorscheme Mustang
-	set mouse=a
 endif
 
 
